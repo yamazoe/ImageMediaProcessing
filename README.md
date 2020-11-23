@@ -1,2 +1,1 @@
-# ImageMediaProcessing
-## 画像メディア工学
+# 画像メディア工学
