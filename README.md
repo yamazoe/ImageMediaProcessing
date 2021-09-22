@@ -2,4 +2,4 @@
 
 ## 演習ファイル
 リンクをクリックするとColaboratoryから実行できます
-- [Colaboratory/Jupyter Notebookを使ってみる](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week01.ipynb)
+- 第1週 [Colaboratory/Jupyter Notebookを使ってみる](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week01.ipynb)
