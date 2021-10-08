@@ -4,3 +4,4 @@
 
 リンクをクリックするとColaboratoryから実行できます。
 - 第1週 [Colaboratory/Jupyter Notebookを使ってみる](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week01.ipynb)
+- 第2週 [Pythonの基礎（条件分岐・繰り返しと配列操作）](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week02.ipynb)
