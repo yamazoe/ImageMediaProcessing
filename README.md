@@ -6,3 +6,4 @@
 - 第1週 [Colaboratory/Jupyter Notebookを使ってみる](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week01.ipynb)
 - 第2週 [Pythonの基礎（条件分岐・繰り返しと配列操作）](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week02.ipynb)
 - 第3週 [画像を読み込み，ヒストグラムを描いてみる](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week03.ipynb)
+- 第4週 [領域に基づく濃淡変換](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week04.ipynb)
