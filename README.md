@@ -10,6 +10,6 @@
 - 第5週 [周波数領域におけるフィルタリング（フーリエ変換）](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week05.ipynb)
 - 第6週 [画像の復元と生成（ぼけ・ぶれ画像の復元）](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week06.ipynb)
 - 第9週 [２値画像処理（収縮・膨張と背景差分）](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week09.ipynb)
-- 
+
 以下は課題ではありませんが，興味があれば実行してみてください．
 - 第4週 [VGG16で画像認識をやってみる](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week04_2.ipynb)
