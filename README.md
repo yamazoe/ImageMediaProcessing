@@ -9,7 +9,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week02.ipynb)
 - 第3週 [画像を読み込み，ヒストグラムを描いてみる](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week03.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week03.ipynb)
-- 第4週 [領域に基づく濃淡変換]https://github.com/yamazoe/ImageMediaProcessing/blob/main/week04.ipynb)
+- 第4週 [領域に基づく濃淡変換](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week04.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week04.ipynb)
 - 第5週 [周波数領域におけるフィルタリング（フーリエ変換）](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week05.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week05.ipynb)
