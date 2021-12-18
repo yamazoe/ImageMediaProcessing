@@ -17,7 +17,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week06.ipynb)
 - 第9週 [２値画像処理（収縮・膨張と背景差分）](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week09.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week09.ipynb)
-- 第11週 [線形変換](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week01.ipynb)
+- 第11週 [線形変換](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week11.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week11.ipynb)
 
 以下は課題ではありませんが，興味があれば実行してみてください．
