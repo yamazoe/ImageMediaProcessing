@@ -21,8 +21,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week11.ipynb)
 - 第12週 [カメラ行列（透視投影行列）を用いたカメラへの投影の計算](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week12.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week12.ipynb)
-- 第14週 [テンプレートマッチング](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week14.ipynb)　ただし提出課題はありません
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week14.ipynb)
+- 第14週 [テンプレートマッチング](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week14.ipynb)　
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week14.ipynb)（ただし提出課題はありません）
 
 以下は課題ではありませんが，興味があれば実行してみてください．
 - 第4週 [VGG16で画像認識をやってみる](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week04_2.ipynb)
