@@ -4,4 +4,4 @@
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)をクリックすると，Colaboratoryから実行できます．
 - 第1週 [Colaboratory/Jupyter Notebookを使ってみる](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week01.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week01.ipynb)
