@@ -22,6 +22,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week10.ipynb)
 - 第11週 [カメラ行列（透視投影行列）を用いたカメラへの投影の計算](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week11.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week11.ipynb)
+- 第12週 [射影変換の応用（射影変換による画像合成）](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week12.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week12.ipynb)
 
 以下は課題ではありませんが，興味があれば実行してみてください．
 - 第4週 [VGG16で画像認識をやってみる](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week04_2.ipynb)
