@@ -22,3 +22,6 @@
 
 - 第5週 [周波数領域におけるフィルタリング（フーリエ変換）](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week05.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week05.ipynb)
+
+- 第5週 [画像の復元と生成（ぼけ・ぶれ画像の復元）](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week06.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week06.ipynb)
