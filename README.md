@@ -41,6 +41,6 @@
 - 第9週 [ディープラーニングでステレオマッチング（３次元復元）](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week09_2.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week09_2.ipynb)
 
-- 第12週 [ディープラーニングでステレオマッチング（３次元復元）](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week09_2.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week09_2.ipynb)
+- 第12週 [カメラ行列（透視投影行列）を用いたカメラへの投影の計算](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week12.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week12.ipynb)
 
