@@ -9,3 +9,6 @@
 
 - 第2週 [Pythonの基礎（条件分岐・繰り返しと配列操作）](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week02.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week02.ipynb)
+
+- 第4週 [画像の読み込み，ヒストグラムの描画，トーンカーブを利用した変換](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week04.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week04.ipynb) 
