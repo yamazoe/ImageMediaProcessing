@@ -7,6 +7,9 @@
 - 第1週 [Colaboratory/Jupyter Notebookを使ってみる](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week01.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week01.ipynb)
 
+- 第3週 [画像（配列）操作とPythonの基礎（条件分岐・繰り返し）](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week03.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week03.ipynb)
+
 <!-- 
 以下は課題にはしませんでしたが，授業と関連した内容のプログラムです．
 
