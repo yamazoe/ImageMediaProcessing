@@ -21,6 +21,9 @@
 
 - 第7週 [画像の復元と生成（ぼけ・ぶれ画像の復元）](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week07.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week07.ipynb)
+
+- 第9週 [２値画像処理（収縮・膨張と背景差分）](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week09.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week09.ipynb)
 <!-- 
 以下は課題にはしませんでしたが，授業と関連した内容のプログラムです．
 -->
