@@ -29,7 +29,8 @@
 - 第10週 [線形変換](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week10.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week10.ipynb)
 
-
+- 第12週 [カメラ行列（透視投影行列）を用いたカメラへの投影の計算](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week12.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week12.ipynb)
 
 以下は課題ではありませんが，興味があれば実行してみてください．
 
