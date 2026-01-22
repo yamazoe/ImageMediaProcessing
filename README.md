@@ -25,6 +25,9 @@
 - 第9週 [２値画像処理（収縮・膨張と背景差分）](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week09.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week09.ipynb)
 
+- 第13週 [テンプレートマッチング](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week13.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week13.ipynb)
+
 以下は課題にはしませんでしたが，授業と関連した内容のプログラムです．
 - 第10週 [線形変換](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week10.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week10.ipynb)
