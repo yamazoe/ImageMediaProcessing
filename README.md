@@ -12,3 +12,6 @@
 
 - 第4週 [画像の読み込み，ヒストグラムの描画，トーンカーブを利用した変換](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week04.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week04.ipynb)
+
+- 第5週 [領域に基づく濃淡変換](https://github.com/yamazoe/ImageMediaProcessing/blob/main/week05.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/week05.ipynb)
